@@ -11,7 +11,7 @@ app.get('/test', (req, res) => {
 
 // Define the root route (/)
 app.get('/', (req, res) => {
-  res.send('Express is working! Stefan Karl M. Chan');
+  res.send('Express is working!!! John Kenneth A. Carungay');
 });
 
 // Start the server and listen on the specified port
